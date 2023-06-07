@@ -6,3 +6,4 @@ console.log(doble(10)); // Salida esperada: 20
 console.log(doble(2.5)); // Salida esperada: 5
 
  */
+

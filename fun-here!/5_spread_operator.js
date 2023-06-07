@@ -1,4 +1,6 @@
-/**Escribe la funcion concat array para unir ambos arrays en uno solo en la salida de la funcion */
+/**Escribe la funcion concat array para unir ambos arrays en uno solo en la salida de la funcion 
+ * usa el spread operator
+*/
 
 
 const array1 = [1, 2, 3];
