@@ -17,6 +17,9 @@ El taller cubre los siguientes temas:
 - Objetos
 - Arreglos
 
+### Nota
+No es necesario que instales el ambiente de Jupyter ni NodeJs para realizar el curso, puedes revisar el material directamente en GitHub y realizar los ejercicios en: https://www.programiz.com/javascript/online-compiler/
+
 ## Primeros Pasos
 Para comenzar con los materiales del taller, sigue estos pasos:
 
