@@ -22,11 +22,11 @@ Para comenzar con los materiales del taller, sigue estos pasos:
 
 1. Clona el repositorio utilizando el siguiente comando:
 
-```git clone https://github.com/Manuel-Espinosa/flisol-2023-javascript-fundamentals-workshop.git```
+    ```git clone https://github.com/Manuel-Espinosa/flisol-2023-javascript-fundamentals-workshop.git```
 
 2. Navega hasta el directorio clonado:
 
-```cd flisol-2023-javascript-fundamentals-workshop```
+    ```cd flisol-2023-javascript-fundamentals-workshop```
 
 ## Instalación de Jupyter
 
@@ -37,11 +37,11 @@ Para instalar Jupyter en Windows, sigue los siguientes pasos:
 
 2. Instala Jupyter utilizando el administrador de paquetes de Python (pip) ejecutando el siguiente comando:
    
-   ```pip install jupyter```
+    ```pip install jupyter```
 
 3. Una vez instalado, puedes iniciar Jupyter ejecutando el siguiente comando:
 
-```jupyter notebook```
+    ```jupyter notebook```
 
 
 ### Linux
@@ -53,11 +53,11 @@ Para instalar Jupyter en Linux, sigue los siguientes pasos:
 
 3. Instala Jupyter ejecutando el siguiente comando:
 
-```pip install jupyter```
+    ```pip install jupyter```
 
 4. Una vez instalado, puedes iniciar Jupyter ejecutando el siguiente comando:
 
-```jupyter notebook```
+    ```jupyter notebook```
 
 
 ## Instalación de Node.js
@@ -73,7 +73,7 @@ Para instalar Node.js en Windows, sigue los siguientes pasos:
 
 4. Una vez completada la instalación, puedes verificar si Node.js está instalado correctamente ejecutando el siguiente comando en una ventana de PowerShell o el símbolo del sistema:
 
-```node --version```
+    ```node --version```
 
 
 ### Linux
@@ -83,31 +83,31 @@ Para instalar Node.js en Linux, sigue los siguientes pasos:
 
 2. Agrega el repositorio de Node.js a tu sistema ejecutando los siguientes comandos:
 
-```
-curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-sudo apt-get install -y nodejs
-```
+    ```
+    curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+    sudo apt-get install -y nodejs
+    ```
 
 3. Una vez completada la instalación, puedes verificar si Node.js está instalado correctamente ejecutando el siguiente comando en la terminal:
    
-```node --version```
+    ```node --version```
 
 
 ## Instalación del Kernel de JavaScript
 
 1. Verifica si tienes Node.js instalado ejecutando el siguiente comando en una ventana de terminal:
 
-```node --version```
+    ```node --version```
 
 2. Si Node.js no está instalado, sigue los pasos para instalarlo según tu sistema operativo (ver sección de instalación de Node.js en este README).
 
 3. Instala el kernel de JavaScript ejecutando el siguiente comando en una ventana de terminal:
 
-```npm install -g ijavascript```
+    ```npm install -g ijavascript```
 
 4. Una vez instalado, registra el kernel de JavaScript ejecutando el siguiente comando:
 
-```ijsinstall```
+    ```ijsinstall```
 
 5. El kernel de JavaScript estará listo para usar en Jupyter.
 
