@@ -2,7 +2,10 @@
  * Usa parametros por default para este reto
  */
 
+  //Modifica el código debajo de esta linea
 const divide = (a,b) => a / b;
+  //Modifica el código arriba de esta linea
+
   
   console.log(divide(5)); // Salida: NaN :( 
   console.log(divide(10, 2)); // Salida: 5
